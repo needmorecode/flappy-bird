@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScoreFactory.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BirdController.cs" Line="16" Column="2" />
+      <File FileName="Assets\Scripts\FileUtils.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Observer.cs" Line="14" Column="2" />
+      <File FileName="Assets\Scripts\NotificationCenter.cs" Line="15" Column="38" />
+      <File FileName="Assets\Scripts\TubeController.cs" Line="19" Column="2" />
+      <File FileName="Assets\Scripts\ScoreFactory.cs" Line="37" Column="26" />
+      <File FileName="Assets\Scripts\TubeFactory.cs" Line="97" Column="6" />
+      <File FileName="Assets\Scripts\RestartController.cs" Line="19" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
